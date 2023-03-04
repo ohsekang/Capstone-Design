@@ -1,7 +1,5 @@
 # Capstone-Design (Autonomous-Driving)
 
-# main_project
-
 ## 주요 기능
 
 1.실종자(미아) 찾기  
